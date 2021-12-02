@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.scss';
 import MainNavbar from './components/Navbar';
+// import Footer from './components/Footer';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import FirstBook from './components/pages/FirstBook';
 import SecondBook from './components/pages/SecondBook';
