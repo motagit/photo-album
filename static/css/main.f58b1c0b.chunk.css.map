@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,QACI,gBAAA","file":"main.f58b1c0b.chunk.css","sourcesContent":[".navbar {\r\n    min-height: 125px;\r\n}\r\n"]}
