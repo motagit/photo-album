@@ -1,2 +1,2 @@
-# photo-album
-> Live demo [_here_](https://motagit.github.io/photo-album/).
+# photo-album 📷
+> [_Live demo_](https://motagit.github.io/photo-album/).
